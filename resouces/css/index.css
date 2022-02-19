@@ -15,19 +15,19 @@ h2 {
     color: white;
 }
 
-.green {
+#brushes {
     background-color: mediumspringgreen;
 }
 
-.coral {
+#frames {
     background-color: lightcoral;
 }
 
-.blue {
+#paint {
     background-color: skyblue;
 }
 
-span {
+.price {
     font-weight: bold;
     color: blue;
 }
