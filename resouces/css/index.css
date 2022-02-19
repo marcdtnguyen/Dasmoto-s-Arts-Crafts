@@ -31,3 +31,7 @@ span {
     font-weight: bold;
     color: blue;
 }
+
+figure {
+    margin: 0;
+}
