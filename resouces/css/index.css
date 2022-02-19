@@ -26,3 +26,8 @@ h2 {
 .blue {
     background-color: skyblue;
 }
+
+span {
+    font-weight: bold;
+    color: blue;
+}
